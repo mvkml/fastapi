@@ -29,3 +29,13 @@ This workspace uses Python with **FastAPI** to build modern REST APIs. FastAPI i
 - **Installation**: Download from [python.org](https://www.python.org)
 - **Package Manager**: Use `pip` to install libraries
 - **Virtual Environments**: Use `venv` to isolate project dependencies
+
+---
+
+## Profile
+
+**Name:** Vishnu Kiran M
+
+**Role:** Enterprise AI End to End Designer
+
+**Focus:** Designing and implementing comprehensive AI solutions across the enterprise stack, from concept to deployment.
