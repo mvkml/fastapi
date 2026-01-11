@@ -35,8 +35,9 @@ This workspace uses Python with **FastAPI** to build modern REST APIs. FastAPI i
 ## Profile
 
 **Name:** Vishnu Kiran M
-ViKi Pedia
 
 **Role:** Enterprise AI End to End Designer
 
 **Focus:** Designing and implementing comprehensive AI solutions across the enterprise stack, from concept to deployment.
+
+ViKi Pedia
