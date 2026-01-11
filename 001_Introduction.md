@@ -38,6 +38,6 @@ This workspace uses Python with **FastAPI** to build modern REST APIs. FastAPI i
 
 **Role:** Enterprise AI End to End Designer
 
-**Focus:** Designing and implementing comprehensive AI solutions across the enterprise stack, from concept to deployment.
+**Focus:** AI Solutions Architect specializing in end-to-end AI systems—UI, APIs, cloud integration, and big-data pipelines for production-grade AI platforms.
 
 ViKi Pedia
